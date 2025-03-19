@@ -13,9 +13,4 @@
 
 ---
 
-### 📊 GitHub Stats
-![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminrezaeeyan&show_icons=true&theme=radical)
-
----
-
 ⭐ Feel free to explore my repositories and reach out for collaboration or discussions! If you find a repository useful or interesting, don't forget to **star it**! 🌟
