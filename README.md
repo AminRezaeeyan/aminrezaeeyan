@@ -1,9 +1,9 @@
 # Hi there, I'm Amin Rezaeeyan 👋
 
-🎓 **Bachelor of Computer Engineering** student at **Amirkabir University of Technology**.  
-💡 Passionate about solving **challenging and future-oriented problems**.
-🤖 Enthusiastic about **Artificial Intelligence** and **Machine Learning**.  
-🚀 Currently leveraging **AI** to simplify tasks and advance technology.  
+- 🎓 **Bachelor of Computer Engineering** student at **Amirkabir University of Technology**.  
+- 💡 Passionate about solving **challenging and future-oriented problems**.
+- 🤖 Enthusiastic about **Artificial Intelligence** and **Machine Learning**.  
+- 🚀 Currently leveraging **AI** to simplify tasks and advance technology.  
 
 ---
 
